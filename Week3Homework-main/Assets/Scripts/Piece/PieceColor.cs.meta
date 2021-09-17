@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f4bdf3ec07ea5c245b4a6e4489916407
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blueColor: {fileID: 8123522099234965906, guid: 8a1dc6f85b9a244479ac11b4b0b0897c, type: 3}
+  - redColor: {fileID: -6542258964230631408, guid: 8a1dc6f85b9a244479ac11b4b0b0897c, type: 3}
+  - greenColor: {fileID: 5576512789731744304, guid: 8a1dc6f85b9a244479ac11b4b0b0897c, type: 3}
+  - purpleColor: {fileID: 4170084735909681763, guid: 8a1dc6f85b9a244479ac11b4b0b0897c, type: 3}
+  - goldColor: {fileID: -4573936591471085667, guid: 8a1dc6f85b9a244479ac11b4b0b0897c, type: 3}
+  - greyColor: {fileID: 4868013315375914852, guid: 8a1dc6f85b9a244479ac11b4b0b0897c, type: 3}
+  - brownColor: {fileID: 8081418902575098564, guid: 8a1dc6f85b9a244479ac11b4b0b0897c, type: 3}
+  - spriteRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
